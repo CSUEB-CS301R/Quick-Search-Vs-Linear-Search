@@ -53,7 +53,7 @@ int linearSearch(const DataType key, DataType *collection, int length, long &cou
 }
 
 int main() {
-    // fill an array with odd numbers from 1 to 201
+    // fill an array with odd numbers from 1 to 199
     // [1, 3, 5, 7, ... 195, 197, 199]
     int test_collection[100];
     for (int i = 0; i < 100; ++i) {
